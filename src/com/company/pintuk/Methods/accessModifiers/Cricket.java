@@ -19,4 +19,10 @@ public class Cricket {
         System.out.println("Doing fielding");
         return "";
     }
+    
+        protected String keeping(){
+
+        System.out.println("Doing keeping");
+        return "";
+    }
 }
