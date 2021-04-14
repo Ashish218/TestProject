@@ -13,4 +13,10 @@ public class Cricket {
         System.out.println("Doing Bowling");
         return "";
     }
+
+    protected String fielding(){
+
+        System.out.println("Doing fielding");
+        return "";
+    }
 }
