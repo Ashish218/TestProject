@@ -25,4 +25,10 @@ public class Cricket {
         System.out.println("Doing keeping");
         return "";
     }
+
+    protected String umpiring(){
+
+        System.out.println("Doing umpiring");
+        return "";
+    }
 }
