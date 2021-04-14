@@ -20,7 +20,7 @@ public class Cricket {
         return "";
     }
     
-        protected String keeping(){
+    protected String keeping(){
 
         System.out.println("Doing keeping");
         return "";
